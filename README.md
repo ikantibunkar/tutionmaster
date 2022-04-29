@@ -70,10 +70,5 @@ A Platform that Connects Tutions and Students near by their places!!
 
 <br>
 
-## 🤓 Contributors 
-
-- [Arunoday Kumar](https://github.com/nirala96)
-- [Kapil Kumar](https://github.com/kapilkumar2001)
-- [Nishant Andoriya](https://github.com/M-A-D-A-R-A)
 
 
