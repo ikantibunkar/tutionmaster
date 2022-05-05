@@ -1,4 +1,4 @@
-# TOYO
+# TUTIONMASTER
 
 A Platform that Connects Tutions and Students near by their places!!
 
