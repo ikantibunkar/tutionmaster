@@ -54,11 +54,6 @@ A Platform that Connects Tutions and Students near by their places!!
 </br>
 </br>
 
-## Video and PPT  
-
-- [Video](https://youtu.be/d6AoUnLG_Gc)
-- [PPT](https://drive.google.com/file/d/1MNbtm8mgr6HlvVxC7gV95MiUhxSD_bz5/view?usp=sharing)
-
 
 </p>
 <br>
